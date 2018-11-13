@@ -4,8 +4,8 @@ class Person
   def initialize(attributes)
     @name = name
     @birthday = birthday
-@hair_color = hair_color
-@eye_color = eye_color
+    @hair_color = hair_color
+    @eye_color = eye_color
 @height = height
 @weight = weight 
 @handed = handed
